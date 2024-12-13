@@ -111,3 +111,8 @@ python split_xml_station.py stationXML
 1. Both `stationXML` and `split_xml_station.py` must be placed in the same directory.
 2. The instrument response file must be in XML format ([details here](https://www.fdsn.org/xml/station/)).
 3. The individual station instrument response files will be stored in a newly created `xml` directory. Ensure that the directory name does not conflict with existing folders. Users do not need to create the directory; the script will handle this automatically.
+
+
+## Citation
+
+https://doi.org/10.30067/TECNL.202206_1(1).0002
